@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    padding:0;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #000000;
+    background-color: #d1d8e0;
+    background-image: url(https://img.freepik.com/free-vector/gray-geometrical-shapes-social-banner-vector_53876-177769.jpg?t=st=1731869930~exp=1731873530~hmac=7b75f513f165907e2bd076811be9e499270e500402c2f65c2dcbd69a1a0cb45b&w=1060);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  header {
+    background-color: #007bff;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  nav a {
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 2rem;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .project-card {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin: 1rem 0;
+    border-radius: 5px;
+  }
+  /* .profile-picture{
+    display: flex;
+    justify-content: center;
+    align-items: right center;
+  } */
+  
